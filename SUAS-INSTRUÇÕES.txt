@@ -1,2 +1,2 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+1 - rodar /com/amil/predojo/App.java passando como parametro o arquivo
+2 - todos os requirementos foram atendidos (obrigatórios e não-obrigatórios) exceto o "Jogadores que matarem 5 vezes em 1 minuto devem ganhar um "award"."
